@@ -1,0 +1,3 @@
+
+# Asking user for their name and  striping away accidental spaces and converting the name to Title Case
+name = input("What is your name?").strip().title()
